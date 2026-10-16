@@ -1430,7 +1430,7 @@ msgstr "武器速度倍率 +{percent}%。"
 #. Upgrade card - name (weapon_avd)
 #. source: AVD Logo
 msgid "UPGRADE.weapon_avd.name"
-msgstr "AVD ﾛｺﾞ"
+msgstr "AVD Logo"
 
 #. Upgrade card - description (weapon_avd)
 #. source: Shoots a giant AVD logo towards the nearest enemy.
@@ -1576,7 +1576,7 @@ msgstr "ｶｰｿﾙの上下を斬る。武器数が増えると、交互に追
 #. Upgrade card - name (weapon_sniper)
 #. source: Sniper 1.6
 msgid "UPGRADE.weapon_sniper.name"
-msgstr "ｽﾅｲﾊﾟｰ1.6"
+msgstr "Sniper 1.6"
 
 #. Upgrade card - description (weapon_sniper)
 #. source: One heavy shot at the strongest enemy. Clears show in a killfeed.
@@ -1639,7 +1639,7 @@ msgstr "近くの敵にﾗｸﾞ信号を送るｱﾝﾃﾅを設置する。"
 #. Upgrade card - name (weapon_avn)
 #. source: AVN Chat
 msgid "UPGRADE.weapon_avn.name"
-msgstr "AVNﾁｬｯﾄ"
+msgstr "AVN Chat"
 
 #. Upgrade card - description (weapon_avn)
 #. source: Orbiting chat-bubble beams type out messages and Lag enemies.
@@ -2317,7 +2317,7 @@ msgstr "ﾚﾍﾞﾙ: %d"
 #. source: level%d.doc - SH Docs 2003
 #. Keep placeholders unchanged: %d
 msgid "UI.window_title"
-msgstr "ﾚﾍﾞﾙ%d.doc - SH Docs 2003"
+msgstr "level%d.doc - SH Docs 2003"
 
 #. End-of-round timer prompt for the Safe Folder
 #. source: Get to the Safe Folder!
@@ -3107,7 +3107,7 @@ msgstr "ｼｰﾄ%d"
 #. Vapor store - window title
 #. source: Vapor Store
 msgid "UI.vapor_store_title"
-msgstr "Vaporｽﾄｱ"
+msgstr "Vapor Store"
 
 #. Vapor store - black header logo wordmark
 #. source: VAPOR
@@ -4376,7 +4376,7 @@ msgstr "戦闘の合間にｺｲﾝを投資し、後で引き出す。"
 #. UI (script-driven)
 #. source: Finance Manager
 msgid "UI.unlock_file_stock_trader_reward"
-msgstr "ﾌｧｲﾅﾝｽﾏﾈｰｼﾞｬ"
+msgstr "Finance Manager"
 
 #. Unlock description - Ethanol 130% safe file
 #. source: Pay Coin to copy a random plugin you already have installed.
@@ -4822,7 +4822,7 @@ msgstr "{cost}ｺｲﾝ"
 #. Finance Manager window and desktop icon title
 #. source: Finance Manager
 msgid "UI.stock_trader_title"
-msgstr "ﾌｧｲﾅﾝｽﾏﾈｰｼﾞｬ"
+msgstr "Finance Manager"
 
 #. Finance Manager last-folder warning
 #. source: Last folder: withdraw before the last battle!
@@ -6230,7 +6230,7 @@ msgstr "作業を続行できます。"
 #. Scene label
 #. screens: download_ram_window.tscn
 msgid "RAM Downloader Professional (Legal)"
-msgstr "RAM Downloader Professional（合法）"
+msgstr "RAM Downloader Professional (Legal)"
 
 #. Scene label
 #. screens: download_ram_window.tscn
@@ -6570,7 +6570,7 @@ msgstr ""
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
 msgid "UpgradeManager 2003 rc2"
-msgstr "ｱｯﾌﾟｸﾞﾚｰﾄﾞﾏﾈｰｼﾞｬ 2003 rc 2"
+msgstr "UpgradeManager 2003 rc2"
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
