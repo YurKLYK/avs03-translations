@@ -1525,7 +1525,7 @@ msgstr "ﾋﾟﾝﾎﾞｰﾙの玉を最も近い敵に向かって発射する
 #. Upgrade card - name (weapon_quarantine)
 #. source: Quarantine
 msgid "UPGRADE.weapon_quarantine.name"
-msgstr "隔離"
+msgstr "Quarantine"
 
 #. Upgrade card - description (weapon_quarantine)
 #. source: Scans an area around the player damaging enemies.
