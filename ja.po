@@ -5535,7 +5535,7 @@ msgstr "ﾎﾟｲﾝﾀｰの軌跡"
 
 #. Scene label
 msgid "Download More RAM"
-msgstr "RAMをもっとﾀﾞｳﾝﾛｰﾄﾞ"
+msgstr "Download More RAM"
 
 #. RAM download complete
 msgid "RAM download complete."
