@@ -1099,7 +1099,7 @@ msgstr "最大HPの追加量。"
 #. Stat display - name (upgrade_player_power_multi)
 #. source: Weapon Power
 msgid "STAT.upgrade_player_power_multi.name"
-msgstr "武器ﾊﾟﾜｰ"
+msgstr "ﾃﾞﾊﾞﾌ効果"
 
 #. Stat display - description (upgrade_player_power_multi)
 #. source: Increases power of Repel, Heat, Infect and Lag from all weapons.
@@ -1140,7 +1140,7 @@ msgstr "ｶｰｿﾙの移動速度の倍率。"
 #. Stat display - name (upgrade_player_weap_amount)
 #. source: Weapon Amount
 msgid "STAT.upgrade_player_weap_amount.name"
-msgstr "武器数"
+msgstr "ｳｪﾎﾟﾝ展開数"
 
 #. Stat display - description (upgrade_player_weap_amount)
 #. source: Chance of additional weapon spawns on attack. Relative to base
