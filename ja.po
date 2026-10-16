@@ -3169,7 +3169,7 @@ msgstr "戦闘ﾗｳﾝﾄﾞで出現する新しいﾌｧｲﾙ形式を解放
 #. UI (script-driven)
 #. source: Weapons
 msgid "UI.store_group_weapons"
-msgstr "武器"
+msgstr "ｳｪﾎﾟﾝ選択"
 
 #. UI (script-driven)
 #. source: Cursors
