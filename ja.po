@@ -270,8 +270,8 @@ msgstr "ﾊｰﾄﾞｳｪｱIRQ"
 #. 10s).
 msgid "PLUGIN.armor_damage_trigger.description"
 msgstr ""
-"【攻撃耐性+5】\n"
-"被ﾀﾞﾒｰｼﾞ時【ﾊﾟｹｯﾄﾛｽ +25】(効果時間:10 秒)"
+"ｱｰﾏｰ +5。\n"
+"被ﾀﾞﾒｰｼﾞ時、ﾊﾟｹｯﾄﾛｽ +25（10秒間）。"
 
 #. Plugin - name (armor_missing_hp)
 #. source: Last Known Good
@@ -292,8 +292,8 @@ msgstr "ｴﾝﾀｰﾌﾟﾗｲｽﾞ版"
 #. source: Add +64 Max HP.\nAdd +12 Health Regen.
 msgid "PLUGIN.big_hp_regen_boost.description"
 msgstr ""
-"【最大HP +64】\n"
-"【HP自然回復 +12】"
+"最大HP +64。\n"
+"HP自然回復 +12。"
 
 #. Plugin - name (big_wave_damage)
 #. source: Peak Hours
@@ -303,9 +303,7 @@ msgstr "ﾋﾟｰｸﾀｲﾑ"
 #. Plugin - description (big_wave_damage)
 #. source: Increase Weapon Damage Multiplier +10% when opening a Big Wave.
 msgid "PLUGIN.big_wave_damage.description"
-msgstr ""
-"ﾋﾞｯｸﾞｳｪｰﾌﾞ起動時\n"
-"【与ﾀﾞﾒｰｼﾞ +10%】"
+msgstr "Big Waveを開くと武器ﾀﾞﾒｰｼﾞ倍率 +10%。"
 
 #. Plugin - name (blast_on_file_open)
 #. source: AutoPlay
@@ -315,9 +313,7 @@ msgstr "自動再生"
 #. Plugin - description (blast_on_file_open)
 #. source: 25% Chance to trigger a Blast when opening a File.
 msgid "PLUGIN.blast_on_file_open.description"
-msgstr ""
-"ﾌｧｲﾙ起動時\n"
-"【25%の確率で『ﾌﾞﾗｽﾄ』が発生】"
+msgstr "ﾌｧｲﾙを開くと25%の確率でﾌﾞﾗｽﾄ発動。"
 
 #. Plugin - name (chance_defrag)
 #. source: Disk Cleanup
@@ -327,9 +323,7 @@ msgstr "ﾃﾞｨｽｸのｸﾘｰﾝｱｯﾌﾟ"
 #. Plugin - description (chance_defrag)
 #. source: 10% Chance to perform a Defrag every 30s.
 msgid "PLUGIN.chance_defrag.description"
-msgstr ""
-"30 秒経過時\n"
-"【10％の確率で『ﾃﾞﾌﾗｸﾞ』を実行】"
+msgstr "30秒ごとに10%の確率でﾃﾞﾌﾗｸﾞを実行。"
 
 #. Plugin - name (coin_boost)
 #. source: Coin Gain Boost
@@ -339,7 +333,7 @@ msgstr "ｺｲﾝ獲得量強化"
 #. Plugin - description (coin_boost)
 #. source: Multiply Coin Gain 1.1x.
 msgid "PLUGIN.coin_boost.description"
-msgstr "【ｺｲﾝ獲得量 1.1x】"
+msgstr "ｺｲﾝ獲得量 ×1.1。"
 
 #. Plugin - name (coin_drop_boost)
 #. source: Shared Folders
@@ -349,7 +343,7 @@ msgstr "共有ﾌｫﾙﾀﾞ"
 #. Plugin - description (coin_drop_boost)
 #. source: Increase enemy Coin Drop Chance +20%.
 msgid "PLUGIN.coin_drop_boost.description"
-msgstr "【ｺｲﾝﾄﾞﾛｯﾌﾟ率 +20%】"
+msgstr "敵のｺｲﾝﾄﾞﾛｯﾌﾟ率 +20%。"
 
 #. Plugin - name (crit_chance_boost)
 #. source: Crit Chance Boost
@@ -359,7 +353,7 @@ msgstr "ｸﾘﾃｨｶﾙ率強化"
 #. Plugin - description (crit_chance_boost)
 #. source: Multiply Crit Chance 1.1x.
 msgid "PLUGIN.crit_chance_boost.description"
-msgstr "【ｸﾘﾃｨｶﾙ確率 1.1x】"
+msgstr "ｸﾘﾃｨｶﾙ率 ×1.1。"
 
 #. Plugin - name (cursor_speed_boost)
 #. source: Cursor Speed Boost
@@ -369,7 +363,7 @@ msgstr "ｶｰｿﾙ速度強化"
 #. Plugin - description (cursor_speed_boost)
 #. source: Multiply Cursor Speed 1.1x
 msgid "PLUGIN.cursor_speed_boost.description"
-msgstr "【ｶｰｿﾙ速度 1.1x】"
+msgstr "ｶｰｿﾙ速度 ×1.1。"
 
 #. Plugin - name (cursor_speed_damage)
 #. source: Critical Battery
@@ -381,8 +375,8 @@ msgstr "限界ﾊﾞｯﾃﾘｰ"
 #. Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
 msgstr ""
-"【ｶｰｿﾙ速度 +10%】\n"
-"被ﾀﾞﾒｰｼﾞ時【10 秒間 ｶｰｿﾙ速度+30%】"
+"ｶｰｿﾙ速度 +10%。\n"
+"被ﾀﾞﾒｰｼﾞ時、ｶｰｿﾙ速度 +30%（10秒間）。"
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
@@ -392,7 +386,7 @@ msgstr "武器ﾀﾞﾒｰｼﾞ強化"
 #. Plugin - description (damage_boost)
 #. source: Multiply Weapon Damage 1.1x.
 msgid "PLUGIN.damage_boost.description"
-msgstr "【与ﾀﾞﾒｰｼﾞ 1.1x】"
+msgstr "武器ﾀﾞﾒｰｼﾞ ×1.1。"
 
 #. Plugin - name (damage_level_scaling)
 #. source: Career Path
@@ -404,8 +398,8 @@ msgstr "ｷｬﾘｱﾊﾟｽ"
 #. per player level.
 msgid "PLUGIN.damage_level_scaling.description"
 msgstr ""
-"ﾌﾟﾚｲﾔｰﾚﾍﾞﾙ 1 上昇毎【与ﾀﾞﾒｰｼﾞ +3%】\n"
-"ﾌﾟﾚｲﾔｰﾚﾍﾞﾙ 1 上昇毎【最大HP -1】"
+"ﾌﾟﾚｲﾔｰﾚﾍﾞﾙごとに武器ﾀﾞﾒｰｼﾞ +3%。\n"
+"ﾌﾟﾚｲﾔｰﾚﾍﾞﾙごとに最大HP -1。"
 
 #. Plugin - name (damage_missing_hp)
 #. source: Redline
@@ -415,7 +409,7 @@ msgstr "ﾚｯﾄﾞﾗｲﾝ"
 #. Plugin - description (damage_missing_hp)
 #. source: Increase Weapon Damage +1% per 1% missing HP.
 msgid "PLUGIN.damage_missing_hp.description"
-msgstr "最大HPより1%減少する毎に【与ﾀﾞﾒｰｼﾞ +1%】"
+msgstr "失ったHPの割合が1%増えるごとに武器ﾀﾞﾒｰｼﾞ +1%。"
 
 #. Plugin - name (damage_speed_crit)
 #. source: Performance Options
@@ -427,10 +421,10 @@ msgstr "ﾊﾟﾌｫｰﾏﾝｽｵﾌﾟｼｮﾝ"
 #. +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
 msgid "PLUGIN.damage_speed_crit.description"
 msgstr ""
-"【与ﾀﾞﾒｰｼﾞ +10%】\n"
-"【待機時間短縮 +10%】\n"
-"【ｸﾘﾃｨｶﾙ確率 +5%】\n"
-"【ｸﾘﾃｨｶﾙﾀﾞﾒｰｼﾞ +15%】"
+"武器ﾀﾞﾒｰｼﾞ +10%。\n"
+"ﾘﾌﾚｯｼｭ速度 +10%。\n"
+"ｸﾘﾃｨｶﾙ率 +5%。\n"
+"ｸﾘﾃｨｶﾙﾀﾞﾒｰｼﾞ +15%。"
 
 #. Plugin - name (defrag_on_safe_folder)
 #. source: Startup Folder
@@ -450,7 +444,7 @@ msgstr "ﾃﾞｭｱﾙｺｱ"
 #. Plugin - description (dual_core)
 #. source: Multiply Processing Speed 2.0x.
 msgid "PLUGIN.dual_core.description"
-msgstr "【ﾌｧｲﾙ処理速度 2.0x】"
+msgstr "処理速度 ×2.0。"
 
 #. Plugin - name (heal_on_crit)
 #. source: Retry
@@ -460,7 +454,7 @@ msgstr "再試行"
 #. Plugin - description (heal_on_crit)
 #. source: 5% Chance to Heal when landing a Crit.
 msgid "PLUGIN.heal_on_crit.description"
-msgstr "ｸﾘﾃｨｶﾙﾋｯﾄ時【5％の確率でHP回復】"
+msgstr "ｸﾘﾃｨｶﾙ命中時、5%の確率でHP回復。"
 
 #. Plugin - name (hp_boost)
 #. source: Max HP Boost
@@ -470,7 +464,7 @@ msgstr "最大HP強化"
 #. Plugin - description (hp_boost)
 #. source: Add +15 Max HP.
 msgid "PLUGIN.hp_boost.description"
-msgstr "【最大HP +15】"
+msgstr "最大HP +15。"
 
 #. Plugin - name (hp_on_heal)
 #. source: AutoRecover
@@ -480,9 +474,7 @@ msgstr "自動回復"
 #. Plugin - description (hp_on_heal)
 #. source: 7% Chance to Add +3 Max HP when Healed. (5s Cooldown).
 msgid "PLUGIN.hp_on_heal.description"
-msgstr ""
-"回復時【7 ％の確率で最大HP +3】\n"
-"(ｸｰﾙﾀﾞｳﾝ:5 秒)"
+msgstr "回復時、7%の確率で最大HP +3（ｸｰﾙﾀﾞｳﾝ5秒）。"
 
 #. Plugin - name (locate_pointer)
 #. source: Locate Pointer
@@ -503,7 +495,7 @@ msgstr "運強化"
 #. Plugin - description (luck_boost)
 #. source: Multiply Luck 1.1x.
 msgid "PLUGIN.luck_boost.description"
-msgstr "【運 1.1x】"
+msgstr "運 ×1.1。"
 
 #. Plugin - name (luck_reroll)
 #. source: Lucky Break
@@ -514,9 +506,8 @@ msgstr "幸運のきっかけ"
 #. source: Increase Luck +12%.\nIncrease Luck +25% on Rerolls (Lasts 10s).
 msgid "PLUGIN.luck_reroll.description"
 msgstr ""
-"【運 +12%】\n"
-"ﾘﾛｰﾙ時\n"
-"【運 +25％】(効果時間:10 秒)"
+"運 +12%。\n"
+"ﾘﾛｰﾙ時、運 +25%（10秒間）。"
 
 #. Plugin - name (luck_zip_boost)
 #. source: Compressed Folders
@@ -526,17 +517,17 @@ msgstr "圧縮ﾌｫﾙﾀﾞ"
 #. Plugin - description (luck_zip_boost)
 #. source: Increase Luck +3% when successfully opening a Zip File.
 msgid "PLUGIN.luck_zip_boost.description"
-msgstr "zipﾌｧｲﾙの解凍に成功した際、【運 +3%】"
+msgstr "Zipﾌｧｲﾙの解凍に成功すると運 +3%。"
 
 #. Plugin - name (lucky_when_hurt)
 #. source: Lucky When Hurt
 msgid "PLUGIN.lucky_when_hurt.name"
-msgstr "ｹｶﾞﾉｺｳﾐｮｳ"
+msgstr "怪我の功名"
 
 #. Plugin - description (lucky_when_hurt)
 #. source: Multiply Luck 2.0x when taking Damage (Lasts 6s).
 msgid "PLUGIN.lucky_when_hurt.description"
-msgstr "被ﾀﾞﾒｰｼﾞ時【運 2.0x】(効果時間:6秒)"
+msgstr "被ﾀﾞﾒｰｼﾞ時、運 ×2.0（6秒間）。"
 
 #. Plugin - name (magnetism_boost)
 #. source: Magnetism Boost
@@ -556,7 +547,7 @@ msgstr "ﾊﾟｹｯﾄﾛｽ強化"
 #. Plugin - description (packet_loss_boost)
 #. source: Add +6 Packet Loss.
 msgid "PLUGIN.packet_loss_boost.description"
-msgstr "【ﾊﾟｹｯﾄﾛｽ +6】"
+msgstr "ﾊﾟｹｯﾄﾛｽ +6。"
 
 #. Plugin - name (processing_speed_boost)
 #. source: Processing Speed Boost
@@ -566,7 +557,7 @@ msgstr "処理速度強化"
 #. Plugin - description (processing_speed_boost)
 #. source: Multiply Processing Speed 1.1x.
 msgid "PLUGIN.processing_speed_boost.description"
-msgstr "【ﾌｧｲﾙ処理速度 1.1x】"
+msgstr "処理速度 ×1.1。"
 
 #. Plugin - name (regen_boost)
 #. source: Health Regen Boost
@@ -576,7 +567,7 @@ msgstr "HP自然回復強化"
 #. Plugin - description (regen_boost)
 #. source: Add +5 Health Regen.
 msgid "PLUGIN.regen_boost.description"
-msgstr "【HP自然回復 +5】"
+msgstr "HP自然回復 +5。"
 
 #. Plugin - name (shop_discount_10)
 #. source: Coupon Code
@@ -601,14 +592,14 @@ msgstr "ｼｮｯﾌﾟの選択肢が25%割引される"
 #. Plugin - name (slow_but_strong)
 #. source: Rau und Stark
 msgid "PLUGIN.slow_but_strong.name"
-msgstr "ｼﾞｭｳｿｳﾋﾞ"
+msgstr "重装備"
 
 #. Plugin - description (slow_but_strong)
 #. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
 msgid "PLUGIN.slow_but_strong.description"
 msgstr ""
-"【与ﾀﾞﾒｰｼﾞ 1.25x】\n"
-"【ｶｰｿﾙ速度 -10%】"
+"武器ﾀﾞﾒｰｼﾞ ×1.25。\n"
+"ｶｰｿﾙ速度 -10%。"
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
@@ -630,7 +621,7 @@ msgstr "武器速度強化"
 #. Plugin - description (weapon_speed_boost)
 #. source: Multiply Weapon Speed 1.1x.
 msgid "PLUGIN.weapon_speed_boost.description"
-msgstr "【攻撃速度 1.1x】"
+msgstr "武器速度 ×1.1。"
 
 #. Plugin - name (xp_drop_boost)
 #. source: Error Report
@@ -640,7 +631,7 @@ msgstr "ｴﾗｰ報告"
 #. Plugin - description (xp_drop_boost)
 #. source: Increase enemy EXP Drop Chance +20%.
 msgid "PLUGIN.xp_drop_boost.description"
-msgstr "【敵撃破時の経験値ﾄﾞﾛｯﾌﾟ率 +20%】"
+msgstr "敵の経験値ﾄﾞﾛｯﾌﾟ率 +20%。"
 
 #. Plugin - name (xp_file_open)
 #. source: Knowledge Base
@@ -650,7 +641,7 @@ msgstr "ﾅﾚｯｼﾞﾍﾞｰｽ"
 #. Plugin - description (xp_file_open)
 #. source: Gain +5 EXP when opening a File.
 msgid "PLUGIN.xp_file_open.description"
-msgstr "ﾌｧｲﾙを開いた際【経験値 +5】"
+msgstr "ﾌｧｲﾙを開くと経験値 +5。"
 
 #. Plugin - name (xp_gain_boost)
 #. source: EXP Gain Boost
@@ -660,7 +651,7 @@ msgstr "経験値獲得量強化"
 #. Plugin - description (xp_gain_boost)
 #. source: Multiply EXP Gain 1.1x.
 msgid "PLUGIN.xp_gain_boost.description"
-msgstr "【経験値獲得量 1.1x】"
+msgstr "経験値獲得量 ×1.1。"
 
 #. Plugin - name (xp_gain_on_damage)
 #. source: Readme
@@ -671,8 +662,8 @@ msgstr "Readme"
 #. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
 msgid "PLUGIN.xp_gain_on_damage.description"
 msgstr ""
-"【経験値獲得量 +10%】\n"
-"被ﾀﾞﾒｰｼﾞ時【経験値 +4】"
+"経験値獲得量 +10%。\n"
+"被ﾀﾞﾒｰｼﾞ時、経験値 +4。"
 
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
@@ -4523,7 +4514,7 @@ msgstr "旧式ﾊｰﾄﾞｳｪｱ"
 #. Optional extra difficulty policy - description (legacy_hardware)
 #. source: Enemies move 40% faster and deal 20% more damage.
 msgid "POLICY.legacy_hardware.description"
-msgstr "敵のｶｰｿﾙ速度 +40%、敵の与ﾀﾞﾒｰｼﾞ +20%。"
+msgstr "敵の移動速度 +40%、敵の与ﾀﾞﾒｰｼﾞ +20%。"
 
 #. Optional extra difficulty policy - name (bloatware)
 #. source: Bloatware
@@ -5701,7 +5692,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (avn_buddy)
 #. source: Buddy List
 msgid "DRIVER.avn_buddy.name"
-msgstr "友達ﾘｽﾄ"
+msgstr "ﾊﾞﾃﾞｨﾘｽﾄ"
 
 #. Weapon driver / overclock card - description (avn_buddy)
 #. source: Add +2 Amount.\nIncrease Power +15%.
@@ -6465,14 +6456,13 @@ msgid ""
 "\n"
 "If you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
 msgstr ""
-"おめでとうございます！\n"
-"あなたはこのﾚﾍﾞﾙを見事突破されました！\n"
-"製品版が発売されるまでの間、\n"
-"いろいろなﾋﾞﾙﾄﾞを試してみてくださいね!\n"
-"このﾃﾞﾓ版を楽しんでいただけたなら、\n"
-"ｳｨｯｼｭﾘｽﾄ登録やﾌｫﾛｰをお願いします!\n"
-"今後さらに多くのｺﾝﾃﾝﾂが出てきますので\n"
-"どうぞお楽しみに!"
+"やったね！君を誇りに思うよ。楽しんでもらえたかな？\n"
+"\n"
+"それにしても、こんな地味でひねりのない勝利画面でごめんね。君にはもっといい画面がふさわしいし、製品版ではちゃんと用意するよ。\n"
+"\n"
+"それまでは、もっと難しい難易度に挑んだり、稼いだBeanzでｱｯﾌﾟｸﾞﾚｰﾄﾞを買ったり、いろいろなﾋﾞﾙﾄﾞを試してみてね。\n"
+"\n"
+"このﾃﾞﾓ版を楽しめたら、Steamでｳｨｯｼｭﾘｽﾄへの登録やﾌｫﾛｰをよろしく。まだまだ追加するものがあるよ！"
 
 #. Scene label
 #. screens: end_screen.tscn
