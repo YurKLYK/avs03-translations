@@ -318,7 +318,7 @@ msgstr "ﾌｧｲﾙを開くと25%の確率でﾌﾞﾗｽﾄ発動。"
 #. Plugin - name (chance_defrag)
 #. source: Disk Cleanup
 msgid "PLUGIN.chance_defrag.name"
-msgstr "ﾃﾞｨｽｸのｸﾘｰﾝｱｯﾌﾟ"
+msgstr "ﾃﾞｨｽｸ ｸﾘｰﾝｱｯﾌﾟ"
 
 #. Plugin - description (chance_defrag)
 #. source: 10% Chance to perform a Defrag every 30s.
@@ -577,7 +577,7 @@ msgstr "ｸｰﾎﾟﾝｺｰﾄﾞ"
 #. Plugin - description (shop_discount_10)
 #. source: Discount Shop Items +10%.
 msgid "PLUGIN.shop_discount_10.description"
-msgstr "ｼｮｯﾌﾟの選択肢が10%割引される"
+msgstr "ｼｮｯﾌﾟの商品が10%割引される。"
 
 #. Plugin - name (shop_discount_25)
 #. source: Volume License
@@ -587,7 +587,7 @@ msgstr "ﾎﾞﾘｭｰﾑﾗｲｾﾝｽ"
 #. Plugin - description (shop_discount_25)
 #. source: Discount Shop Items +25%.
 msgid "PLUGIN.shop_discount_25.description"
-msgstr "ｼｮｯﾌﾟの選択肢が25%割引される"
+msgstr "ｼｮｯﾌﾟの商品が25%割引される。"
 
 #. Plugin - name (slow_but_strong)
 #. source: Rau und Stark
@@ -902,7 +902,7 @@ msgstr "ﾊﾟﾜｰﾕｰｻﾞｰ"
 #. Plugin - description (power_user)
 #. source: Special File capacity scales with Weapon Power.
 msgid "PLUGIN.power_user.description"
-msgstr "特殊ﾌｧｲﾙの容量が武器ﾊﾟﾜｰに応じて増加。"
+msgstr "特殊ﾌｧｲﾙの容量がﾃﾞﾊﾞﾌ効果に応じて増加。"
 
 #. Plugin - name (extra_shop_offer)
 #. source: Software Catalog
@@ -1226,7 +1226,7 @@ msgstr "{weapon}の武器数"
 #. source: Adds +{percent}% chance of additional {spawn_noun}.
 #. Keep placeholders unchanged: {percent}, {spawn_noun}
 msgid "WEAPON_UPGRADE.amount.description"
-msgstr "追加の{spawn_noun}の発生確率 +{percent}%。"
+msgstr "追加の{spawn_noun}が発生する確率 +{percent}%。"
 
 #. Weapon upgrade card - power stat title
 #. source: {weapon} Power
@@ -1261,62 +1261,62 @@ msgstr "{weapon}の感染ｽﾀｯｸ +{percent}%。"
 #. Weapon amount upgrade - phrase after "additional" for AVD
 #. source: logos spawning
 msgid "WEAPON.avd.spawn_noun"
-msgstr "ﾛｺﾞの出現数"
+msgstr "ﾛｺﾞ"
 
 #. Weapon amount upgrade - phrase after "additional" for Bubbles
 #. source: bubbles spawning
 msgid "WEAPON.bubbles.spawn_noun"
-msgstr "泡の出現数"
+msgstr "泡"
 
 #. Weapon amount upgrade - phrase after "additional" for C: Drive
 #. source: drives spawning
 msgid "WEAPON.cdrive.spawn_noun"
-msgstr "ﾄﾞﾗｲﾌﾞの出現数"
+msgstr "ﾄﾞﾗｲﾌﾞ"
 
 #. Weapon amount upgrade - phrase after "additional" for Cut
 #. source: scissors spawning
 msgid "WEAPON.cut.spawn_noun"
-msgstr "ﾊｻﾐの出現数"
+msgstr "ﾊｻﾐ"
 
 #. Weapon amount upgrade - phrase after "additional" for Firewall
 #. source: fire rings spawning
 msgid "WEAPON.firewall.spawn_noun"
-msgstr "炎の輪の出現数"
+msgstr "炎の輪"
 
 #. Weapon amount upgrade - phrase after "additional" for FontArt
 #. source: letters spawning
 msgid "WEAPON.fontart.spawn_noun"
-msgstr "文字の出現数"
+msgstr "文字"
 
 #. Weapon amount upgrade - phrase after "additional" for HaD: DoCK
 #. source: shots
 msgid "WEAPON.hitmarkers.spawn_noun"
-msgstr "発射数"
+msgstr "射撃"
 
 #. Weapon amount upgrade - phrase after "additional" for Paint
 #. source: circles spawning
 msgid "WEAPON.paint.spawn_noun"
-msgstr "円の出現数"
+msgstr "円"
 
 #. Weapon amount upgrade - phrase after "additional" for Pinball
 #. source: pinballs spawning
 msgid "WEAPON.pinball.spawn_noun"
-msgstr "ﾋﾟﾝﾎﾞｰﾙの出現数"
+msgstr "ﾋﾟﾝﾎﾞｰﾙ"
 
 #. Weapon amount upgrade - phrase after "additional" for Quarantine
 #. source: scans
 msgid "WEAPON.quarantine.spawn_noun"
-msgstr "ｽｷｬﾝ回数"
+msgstr "ｽｷｬﾝ"
 
 #. Weapon amount upgrade - phrase after "additional" for Search
 #. source: magnifying glasses
 msgid "WEAPON.search.spawn_noun"
-msgstr "虫眼鏡の数"
+msgstr "虫眼鏡"
 
 #. Weapon amount upgrade - phrase after "additional" for Solitaire
 #. source: cards spawning
 msgid "WEAPON.solitaire.spawn_noun"
-msgstr "ｶｰﾄﾞの出現数"
+msgstr "ｶｰﾄﾞ"
 
 #. Upgrade card - description (upgrade_player_armor)
 #. source: Increases damage resistance by +{percent}%.
@@ -1455,7 +1455,7 @@ msgstr "C:ﾄﾞﾗｲﾌﾞ"
 #. Upgrade card - description (weapon_cdrive)
 #. source: Drops harddrives randomly on enemies.
 msgid "UPGRADE.weapon_cdrive.description"
-msgstr "ﾊｰﾄﾞﾃﾞｨｽｸﾄﾞﾗｲﾌﾞのｱｲｺﾝを画面内に存在するﾗﾝﾀﾞﾑな敵に落下させる"
+msgstr "敵めがけてﾊｰﾄﾞﾃﾞｨｽｸをﾗﾝﾀﾞﾑに落とす。"
 
 #. Upgrade card - name (weapon_cut)
 #. source: Cut
@@ -1465,7 +1465,7 @@ msgstr "切り取り"
 #. Upgrade card - description (weapon_cut)
 #. source: Scissors slice through the nearest enemy.
 msgid "UPGRADE.weapon_cut.description"
-msgstr "ﾌﾟﾚｲﾔｰから最も近い敵に向かってはさみが出現し切り取りを行う"
+msgstr "ﾊｻﾐで最も近い敵を切り裂く。"
 
 #. Upgrade card - name (weapon_firewall)
 #. source: Firewall
@@ -1497,14 +1497,12 @@ msgstr "HaD: DoCK"
 #. Upgrade card - description (weapon_hitmarkers)
 #. source: Shots land on the nearest enemy. 3% chance of a headshot.
 msgid "UPGRADE.weapon_hitmarkers.description"
-msgstr ""
-"最も近い敵に向かってﾚﾃｨｸﾙが合わさり射撃が行われる。\n"
-"3％の確率でﾍｯﾄﾞｼｮｯﾄが発生する"
+msgstr "最も近い敵を射撃。3%の確率でﾍｯﾄﾞｼｮｯﾄ。"
 
 #. Upgrade card - name (weapon_paint)
 #. source: Paint
 msgid "UPGRADE.weapon_paint.name"
-msgstr "ﾍﾟｲﾝﾄﾂｰﾙ"
+msgstr "ﾍﾟｲﾝﾄ"
 
 #. Upgrade card - description (weapon_paint)
 #. source: Paints circles near the player that damage and add stacks of Lag to
@@ -1540,7 +1538,7 @@ msgstr "検索"
 #. Upgrade card - description (weapon_search)
 #. source: Sends out a magnifying glass around the player.
 msgid "UPGRADE.weapon_search.description"
-msgstr "ﾌﾟﾚｲﾔｰの中心から渦を描くように検索を行い、触れた敵にﾀﾞﾒｰｼﾞを与える"
+msgstr "自機の周囲に虫眼鏡を放つ。"
 
 #. Upgrade card - name (weapon_solitaire)
 #. source: Solitaire
@@ -1602,7 +1600,7 @@ msgstr "ﾒｰﾙ"
 #. source: Envelopes fly out, bounce off walls, and boomerang home hitting
 #. both ways.
 msgid "UPGRADE.weapon_email.description"
-msgstr "封筒を飛ばす。壁で跳ね返り、ﾌﾞｰﾒﾗﾝのように戻って往復で敵に命中する。"
+msgstr "封筒を発射。壁で跳ね返って戻り、行きも帰りも敵に当たる。"
 
 #. Upgrade card - name (weapon_cruiser)
 #. source: Internet Cruiser
@@ -1655,7 +1653,7 @@ msgstr "巨大ｺｰﾝ"
 #. source: Orange traffic wedges stuck to you. They cook what they point at
 #. with Heat.
 msgid "UPGRADE.weapon_cone.description"
-msgstr "ｵﾚﾝｼﾞ色のｺｰﾝが自機に付く。向いている先の敵に熱を与える。"
+msgstr "ｵﾚﾝｼﾞ色のｺｰﾝが自機にくっつく。向けた先の敵を熱で調理してしまう。"
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
@@ -2579,7 +2577,7 @@ msgstr "ﾌﾟﾘﾝﾀ"
 #. Personalise - avatar name
 #. source: Paint
 msgid "UI.avatar_paint"
-msgstr "ﾍﾟｲﾝﾄﾂｰﾙ"
+msgstr "ﾍﾟｲﾝﾄ"
 
 #. Personalise - avatar name
 #. source: Orchestra
@@ -2915,7 +2913,7 @@ msgstr "迷惑広告攻撃"
 #. Profile stats - failed file opens tooltip
 #. source: Spam popups spawned from failed Zip or Download More RAM opens.
 msgid "UI.stat_failed_files_desc"
-msgstr "Zipや「RAMをもっとﾀﾞｳﾝﾛｰﾄﾞ」の失敗で発生した迷惑ﾎﾟｯﾌﾟｱｯﾌﾟの数。"
+msgstr "Zipや「Download More RAM」を開くのに失敗して発生した迷惑ﾎﾟｯﾌﾟｱｯﾌﾟの数。"
 
 #. Profile stats - rar files opened tooltip
 #. source: Rar archives completed.
@@ -3557,7 +3555,7 @@ msgstr "ｶｰｿﾙｸﾗｽで基礎能力が決まる。すべてのｱｯﾌ
 #. source: Folder Difficulty sets the rules of the run: enemy pressure,
 #. rewards, and what you can unlock.
 msgid "UI.starter_help_difficulty"
-msgstr "ﾌｫﾙﾀﾞの難易度で敵の激しさ、報酬、解放できる要素など、ﾌﾟﾚｲのﾙｰﾙが決まる。"
+msgstr "ﾌｫﾙﾀﾞの難易度で敵の攻勢、報酬、解放できる要素など、ﾌﾟﾚｲのﾙｰﾙが決まる。"
 
 #. Starter folder policies category help
 #. source: Optional extra rules on top of the protocol. Completing them earns
@@ -3693,7 +3691,7 @@ msgstr ""
 #. source: %s cleared, %s dropped.
 #. Keep placeholders unchanged: %s
 msgid "UI.notif_cracked_installer"
-msgstr "%sを撃破、%sをﾄﾞﾛｯﾌﾟ。"
+msgstr "%sを撃破。%sがﾄﾞﾛｯﾌﾟ。"
 
 #. Multi Plus! toast when they share a name. %d is count, %s is Error Plus!
 #. etc
@@ -4089,7 +4087,7 @@ msgstr "{file}ﾌｧｲﾙを{amount}個開く"
 #. source: Download More RAM {amount} times
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_open_download_ram"
-msgstr "「RAMをもっとﾀﾞｳﾝﾛｰﾄﾞ」を{amount}回実行"
+msgstr "「Download More RAM」を{amount}回実行"
 
 #. Unlock requirement - successfully extract N Zip files
 #. source: Successfully extract {amount} Zip files
@@ -4341,7 +4339,7 @@ msgstr "ｸﾘﾐﾅﾙ"
 #. UI (script-driven)
 #. source: Slow the world around you to clear enemies more easily.
 msgid "UI.unlock_widget_bullet_time_desc"
-msgstr "周囲の世界を遅くして敵を倒しやすくする。"
+msgstr "周囲の時間の流れを遅くし、敵を倒しやすくする。"
 
 #. UI (script-driven)
 #. source: Heaps of Pain
@@ -4468,7 +4466,7 @@ msgstr "全ﾌﾟﾚｲで開いた{file}ﾌｧｲﾙの数。"
 #. Lifetime Download More RAM milestone description
 #. source: Download More RAM completed across all runs.
 msgid "UI.unlock_general_download_ram_desc"
-msgstr "全ﾌﾟﾚｲで「RAMをもっとﾀﾞｳﾝﾛｰﾄﾞ」を完了した回数。"
+msgstr "全ﾌﾟﾚｲで「Download More RAM」を完了した回数。"
 
 #. Lifetime enemy-type clears milestone description
 #. source: {enemy} enemies cleared across all runs.
@@ -4494,7 +4492,7 @@ msgstr "最大単発ﾀﾞﾒｰｼﾞの目標。"
 #. Lifetime run completions milestone description
 #. source: Runs completed successfully.
 msgid "UI.unlock_general_wins_desc"
-msgstr "正常にｸﾘｱしたﾌﾟﾚｲの数。"
+msgstr "ｸﾘｱした回数。"
 
 #. Lifetime tasks completed milestone description
 #. source: Tasks completed from the list.
@@ -4757,7 +4755,7 @@ msgstr "強化済み"
 #. Health Check Pro upgrade-files tooltip
 #. source: Health Check files in the next battles drop more hearts this run.
 msgid "UI.health_check_pro_boost_tooltip"
-msgstr "このﾌﾟﾚｲの以降の戦闘で、ﾍﾙｽﾁｪｯｸﾌｧｲﾙから出るﾊｰﾄが増える。"
+msgstr "このﾌﾟﾚｲでは、以降の戦闘でﾍﾙｽﾁｪｯｸﾌｧｲﾙから出るﾊｰﾄが増える。"
 
 #. Health Check Pro heal tooltip
 #. source: Restore 50% of your Max HP right now.
@@ -5531,7 +5529,7 @@ msgstr "ﾍﾙｽﾁｪｯｸ"
 
 #. Scene label
 msgid "Pointer Trails"
-msgstr "ﾎﾟｲﾝﾀｰの軌跡"
+msgstr "ﾏｳｽﾎﾟｲﾝﾀｰのﾄﾚｲﾙ"
 
 #. Scene label
 msgid "Download More RAM"
@@ -5753,7 +5751,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (cdrive_cleanup)
 #. source: Disk Cleanup
 msgid "DRIVER.cdrive_cleanup.name"
-msgstr "ﾃﾞｨｽｸのｸﾘｰﾝｱｯﾌﾟ"
+msgstr "ﾃﾞｨｽｸ ｸﾘｰﾝｱｯﾌﾟ"
 
 #. Weapon driver / overclock card - description (cdrive_cleanup)
 #. source: Slams target enemies on screen.
