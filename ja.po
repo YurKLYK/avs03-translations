@@ -1642,7 +1642,7 @@ msgstr "AVN Chat"
 #. Upgrade card - description (weapon_avn)
 #. source: Orbiting chat-bubble beams type out messages and Lag enemies.
 msgid "UPGRADE.weapon_avn.description"
-msgstr "周回する吹き出しのﾋﾞｰﾑがﾒｯｾｰｼﾞを入力し、敵にﾗｸﾞを与える。"
+msgstr "周回する吹き出しのﾋﾞｰﾑがﾒｯｾｰｼﾞを打ち込み、敵にﾗｸﾞを与える。"
 
 #. Upgrade card - name (weapon_cone)
 #. source: Very Large Cone
@@ -5131,7 +5131,7 @@ msgstr "数量: %.1f"
 #. source: Speed: %.2fs
 #. Keep placeholders unchanged: %.2f
 msgid "TOOLTIP.speed"
-msgstr "速度: %.2fs"
+msgstr "速度: %.2f秒"
 
 #. Stat tooltip
 #. source: Refresh: %.2fs
