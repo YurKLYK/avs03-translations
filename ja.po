@@ -127,7 +127,7 @@ msgstr "ｶｵｽ"
 #. source: A inconsistent unpredictable mess of difficulty. I couldn't tell
 #. you what to expect.
 msgid "EVO.chaos.description"
-msgstr "難易度が不規則に変動する予測不能のﾓｰﾄﾞ。何が起きるかはお楽しみ。"
+msgstr "難易度が不規則に変動する予測不能のﾓｰﾄﾞ。何が起きるかは僕にもわからない。"
 
 #. Folder evolution mode - name (linear)
 #. source: Linear
@@ -223,7 +223,7 @@ msgstr "ﾗﾝｸごとに処理速度倍率 +1%。"
 #. Meta upgrade menu - description (weap_amount)
 #. source: Increases Weapon Amount chance +3% per Rank.
 msgid "META.weap_amount.description"
-msgstr "ﾗﾝｸごとに追加武器の出現確率 +3%。"
+msgstr "ﾗﾝｸごとに、攻撃時に武器が追加で展開される確率 +3%。"
 
 #. Meta upgrade menu - description (weap_damage)
 #. source: Multiply Weapon Damage by an extra +2% per Rank.
@@ -281,7 +281,7 @@ msgstr "前回正常起動時の構成"
 #. Plugin - description (armor_missing_hp)
 #. source: Add +1 Armo(u)r per 2% missing HP.
 msgid "PLUGIN.armor_missing_hp.description"
-msgstr "失ったHPの割合が2%増えるごとにｱｰﾏｰ +1。"
+msgstr "最大HPに対する現在のHP不足率2%につき、ｱｰﾏｰ +1。"
 
 #. Plugin - name (big_hp_regen_boost)
 #. source: Enterprise Edition
@@ -409,7 +409,7 @@ msgstr "ﾚｯﾄﾞﾗｲﾝ"
 #. Plugin - description (damage_missing_hp)
 #. source: Increase Weapon Damage +1% per 1% missing HP.
 msgid "PLUGIN.damage_missing_hp.description"
-msgstr "失ったHPの割合が1%増えるごとに武器ﾀﾞﾒｰｼﾞ +1%。"
+msgstr "最大HPに対する現在のHP不足率1%につき、武器ﾀﾞﾒｰｼﾞ +1%。"
 
 #. Plugin - name (damage_speed_crit)
 #. source: Performance Options
@@ -769,7 +769,7 @@ msgstr "ｸﾘﾃｨｶﾙﾌﾞﾗｽﾄ"
 #. Plugin - description (crit_blast)
 #. source: 10% Chance for Crits to Blast for 50% Damage.
 msgid "PLUGIN.crit_blast.description"
-msgstr "ｸﾘﾃｨｶﾙ時、10%の確率でﾀﾞﾒｰｼﾞ50%のﾌﾞﾗｽﾄを発動。"
+msgstr "ｸﾘﾃｨｶﾙ命中時、10%の確率で、その一撃の50%のﾀﾞﾒｰｼﾞを与えるﾌﾞﾗｽﾄが発動。"
 
 #. Plugin - name (zip_recover)
 #. source: Zip Recover
@@ -813,7 +813,7 @@ msgstr "ﾊｲﾊﾟｰｽﾚｯﾃﾞｨﾝｸﾞ"
 #. source: Multiply Weapon Amount 1.5x.\nMultiply Weapon Damage 0.75x.
 msgid "PLUGIN.hyperthread.description"
 msgstr ""
-"武器数 ×1.5。\n"
+"展開数 ×1.5。\n"
 "武器ﾀﾞﾒｰｼﾞ ×0.75。"
 
 #. Plugin - name (tank_core)
@@ -854,7 +854,7 @@ msgstr "拡張ｽﾛｯﾄ"
 #. Plugin - description (expansion_slot)
 #. source: Equip a random extra weapon at level 6.
 msgid "PLUGIN.expansion_slot.description"
-msgstr "ﾗﾝﾀﾞﾑな追加武器をﾚﾍﾞﾙ6で装備。"
+msgstr "ﾚﾍﾞﾙ6の武器をﾗﾝﾀﾞﾑに1つ追加装備。"
 
 #. Plugin - name (task_manager)
 #. source: Task Manager
@@ -1074,7 +1074,7 @@ msgstr "運"
 #. source: Increases odds for better rolls, resulting in higher rarities
 #. amoung other benefits.
 msgid "STAT.upgrade_player_luck.description"
-msgstr "高ﾚｱﾘﾃｨなど、有利な抽選結果が出る確率。"
+msgstr "高ﾚｱﾘﾃｨの出現など、抽選で有利な結果が出やすくなる。"
 
 #. Stat display - name (upgrade_player_magnetism_multi)
 #. source: Magnetism
@@ -1146,7 +1146,7 @@ msgstr "ｳｪﾎﾟﾝ展開数"
 #. source: Chance of additional weapon spawns on attack. Relative to base
 #. amount.
 msgid "STAT.upgrade_player_weap_amount.description"
-msgstr "攻撃時に武器が追加出現する確率。基本の武器数に対する割合。"
+msgstr "攻撃時に武器が追加で展開される確率。基本の展開数に対する割合。"
 
 #. Stat display - name (upgrade_player_weap_size)
 #. source: Weapon Size
@@ -1220,7 +1220,7 @@ msgstr "{weapon}のｻｲｽﾞ +{percent}%。"
 #. source: {weapon} Amount
 #. Keep placeholders unchanged: {weapon}
 msgid "WEAPON_UPGRADE.amount.name"
-msgstr "{weapon}の武器数"
+msgstr "{weapon}の展開数"
 
 #. Weapon upgrade card - spawn amount stat description
 #. source: Adds +{percent}% chance of additional {spawn_noun}.
@@ -1413,7 +1413,7 @@ msgstr "ｶｰｿﾙ速度 +{percent}%。"
 #. source: Adds +{percent}% chance of additional weapon spawns.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_amount.description"
-msgstr "追加の武器が出現する確率 +{percent}%。"
+msgstr "攻撃時に武器が追加で展開される確率 +{percent}%。"
 
 #. Upgrade card - description (upgrade_player_weap_size)
 #. source: Increases weapon size multiplier by +{percent}%.
@@ -1528,7 +1528,7 @@ msgstr "Quarantine"
 #. Upgrade card - description (weapon_quarantine)
 #. source: Scans an area around the player damaging enemies.
 msgid "UPGRADE.weapon_quarantine.description"
-msgstr "ﾌﾟﾚｲﾔｰの周囲をｽｷｬﾝし、範囲内に入った敵を攻撃する"
+msgstr "自機の周囲をｽｷｬﾝし、範囲内の敵にﾀﾞﾒｰｼﾞを与える。"
 
 #. Upgrade card - name (weapon_search)
 #. source: Search
@@ -1569,7 +1569,7 @@ msgstr "ｼﾐﾀｰ"
 #. source: Slashes above and below the cursor. Extra amount adds alternating
 #. slashes.
 msgid "UPGRADE.weapon_scimitar.description"
-msgstr "ｶｰｿﾙの上下を斬る。武器数が増えると、交互に追加の斬撃を放つ。"
+msgstr "ｶｰｿﾙの上下を斬る。展開数が増えると、交互に追加の斬撃を放つ。"
 
 #. Upgrade card - name (weapon_sniper)
 #. source: Sniper 1.6
@@ -1622,7 +1622,7 @@ msgstr "Orchestra"
 #. source: Opens a browser tab on the closest enemy on screen. Infects, and
 #. sometimes executes.
 msgid "UPGRADE.weapon_orchestra.description"
-msgstr "画面内の最も近い敵にﾌﾞﾗｳｻﾞのﾀﾌﾞを開く。感染を与え、ときどき即死させる。"
+msgstr "画面内の最も近い敵の位置にﾌﾞﾗｳｻﾞのﾀﾌﾞを開く。敵を感染させ、ときどき即死させる。"
 
 #. Upgrade card - name (weapon_satellite)
 #. source: WLAN
@@ -1663,7 +1663,7 @@ msgstr "Blåtand"
 #. Upgrade card - description (weapon_blatand)
 #. source: Chains dashed Infect links between enemies at a fixed link length.
 msgid "UPGRADE.weapon_blatand.description"
-msgstr "一定のﾘﾝｸ距離で敵同士を破線の感染ﾘﾝｸでつなぐ。"
+msgstr "敵同士を一定の長さの感染ﾘﾝｸでつなぐ。ﾘﾝｸは破線状。"
 
 #. Upgrade card - name (weapon_modem)
 #. source: Output Device
@@ -1908,7 +1908,7 @@ msgstr "不明"
 #. Settings menu
 #. source: Standard
 msgid "SETTINGS.zoom_standard"
-msgstr "ｽﾞｰﾑ:通常"
+msgstr "標準"
 
 #. Settings menu
 #. source: Zoomed Out
@@ -2063,7 +2063,7 @@ msgstr "ﾌﾚｰﾑﾚｰﾄをﾃﾞｨｽﾌﾟﾚｲに同期して画面の
 #. Settings menu
 #. source: Maximum frames per second. Unlimited uses your hardware's limit.
 msgid "SETTINGS.fps_cap_tip"
-msgstr "1秒あたりの最大ﾌﾚｰﾑ数。「無制限」ではﾊｰﾄﾞｳｪｱの上限まで使用。"
+msgstr "1秒あたりの最大ﾌﾚｰﾑ数。「FPS 制限なし」ではﾊｰﾄﾞｳｪｱの上限まで使用。"
 
 #. Settings menu
 #. source: Strength of the CRT scanline filter over the screen.
@@ -2709,13 +2709,13 @@ msgstr "ｶｰｿﾙｸﾗｽで戦い方が変わるよ。解放したら「ｱ
 #. source: Plugins add passive power that can be obtain by opening Installers.
 #. Complete the task, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_plugins"
-msgstr "ﾌﾟﾗｸﾞｲﾝはｲﾝｽﾄｰﾗから入手できる常時効果だよ。ﾀｽｸを達成したら「ｱﾝﾛｯｸの追加と削除」で購入しよう。"
+msgstr "ﾌﾟﾗｸﾞｲﾝはｲﾝｽﾄｰﾗから入手できる、常時有効の強化だよ。ﾀｽｸを達成したら「ｱﾝﾛｯｸの追加と削除」で購入しよう。"
 
 #. Virry blurb - weapon driver tasks
 #. source: Weapon Drivers upgrade a weapon's with unique additions. When
 #. unlocked reach levels 8, 16 and 24 to obtain them.
 msgid "UI.task_virry_drivers"
-msgstr "武器ﾄﾞﾗｲﾊﾞは武器ごとに特別な強化を加えるよ。解放後、ﾚﾍﾞﾙ8･16･24で入手できる。"
+msgstr "武器ﾄﾞﾗｲﾊﾞは、武器ごとに特別な強化を加えるよ。解放後、その武器がﾚﾍﾞﾙ8･16･24に達すると入手できる。"
 
 #. Virry blurb - files tasks
 #. source: Safe Files, Battle Files, and Special Files. Unlock them, then
@@ -2853,7 +2853,7 @@ msgstr "1回の攻撃で与えた最大ﾀﾞﾒｰｼﾞ。"
 #. Profile stats - files opened
 #. source: Files Opened
 msgid "UI.stat_files_opened"
-msgstr "起動したﾌｧｲﾙ"
+msgstr "開いたﾌｧｲﾙ"
 
 #. Profile stats - files opened tooltip
 #. source: All folders and files double-clicked across runs.
@@ -3516,7 +3516,7 @@ msgstr "ｺｲﾝ回収中"
 #. source: Investment withdrawn (%.2f)
 #. Keep placeholders unchanged: %.2f
 msgid "UI.notif_investment_withdrawn"
-msgstr "投資を引き出した（%.2f）"
+msgstr "投資資金を引き出した（%.2f）"
 
 #. Side Task complete toast
 #. source: Side Task complete
@@ -3888,7 +3888,7 @@ msgstr ""
 "ｲﾝｽﾄｰﾙ済みｺﾝﾎﾟｰﾈﾝﾄの整合性を確認してください。予期しない動作は、\n"
 "ﾒﾓﾘの破損、不正なﾊﾟｹｯﾄの注入、または許可されていないｽｸﾘﾌﾟﾄの実行を示す場合があります。\n"
 "\n"
-"問題が解決しない場合は、安全な再起動を行うか、ｼｽﾃﾑの内部管理者に連絡してください。\n"
+"問題が解決しない場合は、安全な再起動を行うか、ｼｽﾃﾑ管理者に連絡してください。\n"
 "\n"
 "技術情報:\n"
 "STOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n"
@@ -4009,25 +4009,25 @@ msgstr "ｷｰ: %d"
 #. source: All (%d)
 #. Keep placeholders unchanged: %d
 msgid "UI.all_count"
-msgstr "合計: (%d)"
+msgstr "すべて (%d)"
 
 #. Torrent window - tab
 #. source: Downloading (%d)
 #. Keep placeholders unchanged: %d
 msgid "UI.downloading_count"
-msgstr "ﾀﾞｳﾝﾛｰﾄﾞ中… (%d)"
+msgstr "ﾀﾞｳﾝﾛｰﾄﾞ中 (%d)"
 
 #. Torrent window - tab
 #. source: Completed (%d)
 #. Keep placeholders unchanged: %d
 msgid "UI.completed_count"
-msgstr "完了… (%d)"
+msgstr "完了 (%d)"
 
 #. Torrent window - tab
 #. source: Stalled (%d)
 #. Keep placeholders unchanged: %d
 msgid "UI.stalled_count"
-msgstr "停止… (%d)"
+msgstr "停止中 (%d)"
 
 #. End screen exit bar close prompt
 #. source: Press {close} to reboot to main menu...
@@ -4920,7 +4920,7 @@ msgstr "入金予定のｺｲﾝを投資。"
 #. Finance Manager withdraw button tooltip
 #. source: Cash out your current investment to Coin.
 msgid "UI.stock_trader_withdraw_tooltip"
-msgstr "現在の投資を換金してｺｲﾝで引き出す。"
+msgstr "投資資金をｺｲﾝに換えて引き出す。"
 
 #. Ethanol 130% window explanation
 #. source: Pay Coin to roll a copy of a random plugin you already have
@@ -4947,7 +4947,7 @@ msgstr "ﾌﾟﾗｸﾞｲﾝがｲﾝｽﾄｰﾙされていない。"
 #. Ethanol 130% window text when installed plugins cannot stack
 #. source: Installed plugins cannot be copied.
 msgid "UI.ethanol_none_copyable"
-msgstr "ｲﾝｽﾄｰﾙ済みのﾌﾟﾗｸﾞｲﾝは複製できない。"
+msgstr "ｲﾝｽﾄｰﾙ済みの中に、複製できるﾌﾟﾗｸﾞｲﾝがありません。"
 
 #. Ethanol 130% tooltip after the copy was used
 #. source: Already used in this folder.
@@ -5247,7 +5247,7 @@ msgstr "%s の解凍が完了しました"
 #. source: Missing dynamic link library %s located.
 #. Keep placeholders unchanged: %s
 msgid "DLL.missing_library"
-msgstr "不足していたﾀﾞｲﾅﾐｯｸﾘﾝｸﾗｲﾌﾞﾗﾘ%sが見つかった。"
+msgstr "不足していたﾀﾞｲﾅﾐｯｸﾘﾝｸﾗｲﾌﾞﾗﾘ %s が見つかりました。"
 
 #. Desktop icon tooltip
 #. source: BigWave.exe
@@ -5617,7 +5617,7 @@ msgstr "ﾊｲﾊﾟｰｽﾚｯﾄﾞ"
 #. source: Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.hyperthreaded.description"
 msgstr ""
-"武器数 +2。\n"
+"展開数 +2。\n"
 "ﾀﾞﾒｰｼﾞ -20%。"
 
 #. Weapon driver / overclock card - name (turbo_clock)
@@ -5684,7 +5684,7 @@ msgstr "不在ﾒｯｾｰｼﾞ"
 #. source: Add +1 Amount. Increase Speed +20%.\nIncrease Size +15%.
 msgid "DRIVER.avn_away.description"
 msgstr ""
-"武器数 +1。速度 +20%。\n"
+"展開数 +1。速度 +20%。\n"
 "ｻｲｽﾞ +15%。"
 
 #. Weapon driver / overclock card - name (avn_buddy)
@@ -5696,7 +5696,7 @@ msgstr "ﾊﾞﾃﾞｨﾘｽﾄ"
 #. source: Add +2 Amount.\nIncrease Power +15%.
 msgid "DRIVER.avn_buddy.description"
 msgstr ""
-"武器数 +2。\n"
+"展開数 +2。\n"
 "ﾊﾟﾜｰ +15%。"
 
 #. Weapon driver / overclock card - name (blatand_pair)
@@ -5708,7 +5708,7 @@ msgstr "ﾍﾟｱﾘﾝｸﾞ済みﾃﾞﾊﾞｲｽ"
 #. source: Add +1 Amount. Increase Power +25%.\nIncrease Speed +20%.
 msgid "DRIVER.blatand_pair.description"
 msgstr ""
-"武器数 +1。ﾊﾟﾜｰ +25%。\n"
+"展開数 +1。ﾊﾟﾜｰ +25%。\n"
 "速度 +20%。"
 
 #. Weapon driver / overclock card - name (bubbles_soap)
@@ -5720,7 +5720,7 @@ msgstr "せっけん"
 #. source: Add +1 Amount.\nIncrease Size +40%.
 msgid "DRIVER.bubbles_soap.description"
 msgstr ""
-"武器数 +1。\n"
+"展開数 +1。\n"
 "ｻｲｽﾞ +40%。"
 
 #. Weapon driver / overclock card - name (bubbles_suds)
@@ -5779,7 +5779,7 @@ msgstr "作業区域"
 #. source: Add +1 Amount.\nIncrease Power +30%.
 msgid "DRIVER.cone_workzone.description"
 msgstr ""
-"武器数 +1。\n"
+"展開数 +1。\n"
 "ﾊﾟﾜｰ +30%。"
 
 #. Weapon driver / overclock card - name (cruiser_multitab)
@@ -5791,7 +5791,7 @@ msgstr "ﾌﾞﾗｳｻﾞﾊｲｼﾞｬｯｸ"
 #. source: Converts Lag to Infect. Add +1 Amount.\nIncrease Power +25%.
 msgid "DRIVER.cruiser_multitab.description"
 msgstr ""
-"ﾗｸﾞを感染に変換。武器数 +1。\n"
+"ﾗｸﾞを感染に変換。展開数 +1。\n"
 "ﾊﾟﾜｰ +25%。"
 
 #. Weapon driver / overclock card - name (cruiser_popup)
@@ -5814,7 +5814,7 @@ msgstr "薙ぎ払い"
 msgid "DRIVER.cut_cleave.description"
 msgstr ""
 "反発を感染に変換。ｻｲｽﾞ +80%。\n"
-"武器数 -0.5。"
+"展開数 -0.5。"
 
 #. Weapon driver / overclock card - name (cut_papercut)
 #. source: Paper Cut
@@ -5825,7 +5825,7 @@ msgstr "紙の切り傷"
 #. source: Add +2 Amount.\nIncrease Speed +25%.
 msgid "DRIVER.cut_papercut.description"
 msgstr ""
-"武器数 +2。\n"
+"展開数 +2。\n"
 "速度 +25%。"
 
 #. Weapon driver / overclock card - name (email_cc)
@@ -5837,7 +5837,7 @@ msgstr "炎上ﾒｰﾙ"
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
 msgid "DRIVER.email_cc.description"
 msgstr ""
-"感染を熱に変換。武器数 +1。\n"
+"感染を熱に変換。展開数 +1。\n"
 "速度 +35%。"
 
 #. Weapon driver / overclock card - name (email_bounce)
@@ -5858,7 +5858,7 @@ msgstr "拒否"
 #. Weapon driver / overclock card - description (firewall_deny)
 #. source: Increase Power +50%. Add +1 Amount.
 msgid "DRIVER.firewall_deny.description"
-msgstr "ﾊﾟﾜｰ +50%。武器数 +1。"
+msgstr "ﾊﾟﾜｰ +50%。展開数 +1。"
 
 #. Weapon driver / overclock card - name (firewall_stealth)
 #. source: Flameout
@@ -5880,7 +5880,7 @@ msgstr "太字"
 msgid "DRIVER.fontart_bold.description"
 msgstr ""
 "ｻｲｽﾞ +60%。ﾊﾟﾜｰ +60%。\n"
-"武器数 -25%。"
+"展開数 -25%。"
 
 #. Weapon driver / overclock card - name (fontart_wordart)
 #. source: WordArt
@@ -5892,7 +5892,7 @@ msgstr "輪郭"
 msgid "DRIVER.fontart_wordart.description"
 msgstr ""
 "ｻｲｽﾞ +40%。\n"
-"武器数 +1。"
+"展開数 +1。"
 
 #. Weapon driver / overclock card - name (fraps_benchmark)
 #. source: Benchmark
@@ -5950,7 +5950,7 @@ msgstr "焼夷装薬"
 #. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
 msgid "DRIVER.minesweeper_flag.description"
 msgstr ""
-"反発を熱に変換。武器数 +1。\n"
+"反発を熱に変換。展開数 +1。\n"
 "ﾊﾟﾜｰ +20%。"
 
 #. Weapon driver / overclock card - name (minesweeper_chord)
@@ -5972,7 +5972,7 @@ msgstr "ﾌｨｰﾄﾞﾊﾞｯｸ"
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
 msgid "DRIVER.modem_handshake.description"
 msgstr ""
-"反発をﾗｸﾞに変換。武器数 +1。\n"
+"反発をﾗｸﾞに変換。展開数 +1。\n"
 "ｻｲｽﾞ +25%。"
 
 #. Weapon driver / overclock card - name (modem_broadband)
@@ -6031,7 +6031,7 @@ msgstr "塗りつぶしﾊﾞｹﾂ"
 #. source: Add +1 Amount.\nIncrease Power +40%.
 msgid "DRIVER.paint_fill.description"
 msgstr ""
-"武器数 +1。\n"
+"展開数 +1。\n"
 "ﾊﾟﾜｰ +40%。"
 
 #. Weapon driver / overclock card - name (pinball_tilted)
@@ -6103,7 +6103,7 @@ msgstr "毒塗り"
 msgid "DRIVER.scimitar_dragon.description"
 msgstr ""
 "反発を感染に変換。ｻｲｽﾞ +50%。\n"
-"武器数 +1。"
+"展開数 +1。"
 
 #. Weapon driver / overclock card - name (scimitar_dual)
 #. source: Dual Wield
@@ -6113,7 +6113,7 @@ msgstr "二刀流"
 #. Weapon driver / overclock card - description (scimitar_dual)
 #. source: Add +2 Amount.
 msgid "DRIVER.scimitar_dual.description"
-msgstr "武器数 +2。"
+msgstr "展開数 +2。"
 
 #. Weapon driver / overclock card - name (search_deep)
 #. source: Deep Search
@@ -6124,7 +6124,7 @@ msgstr "詳細検索"
 #. source: Converts Repel to Lag. Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.search_deep.description"
 msgstr ""
-"反発をﾗｸﾞに変換。武器数 +2。\n"
+"反発をﾗｸﾞに変換。展開数 +2。\n"
 "ﾀﾞﾒｰｼﾞ -20%。"
 
 #. Weapon driver / overclock card - name (search_indexed)
@@ -6172,7 +6172,7 @@ msgstr "ﾁｰﾄ"
 #. source: Increase Damage +50%. Add +1 Amount.\nReduce Refresh -15%.
 msgid "DRIVER.solitaire_cheat.description"
 msgstr ""
-"ﾀﾞﾒｰｼﾞ +50%。武器数 +1。\n"
+"ﾀﾞﾒｰｼﾞ +50%。展開数 +1。\n"
 "ﾘﾌﾚｯｼｭ -15%。"
 
 #. Scene label
@@ -6218,7 +6218,7 @@ msgstr "ﾃﾞﾌﾗｸﾞ前の推定経験値:"
 #. Scene label
 #. screens: dll_window.tscn
 msgid "Missing dynamic link library scd.dll located."
-msgstr "見つからなかったﾀﾞｲﾅﾐｯｸﾘﾝｸﾗｲﾌﾞﾗﾘ scd.dll が見つかりました。"
+msgstr "不足していたﾀﾞｲﾅﾐｯｸﾘﾝｸﾗｲﾌﾞﾗﾘ scd.dll が見つかりました。"
 
 #. Scene label
 #. screens: dll_window.tscn
@@ -6561,7 +6561,7 @@ msgid ""
 "enjoy and have a great day <3\n"
 "shaun"
 msgstr ""
-"遊んでくれて本当にありがとう。僕にとって何よりもうれしいことです。\n"
+"遊んでくれて本当にありがとう。僕にとって、これ以上うれしいことはないよ。\n"
 "楽しんで、素敵な1日を <3\n"
 "shaun"
 
@@ -6751,7 +6751,7 @@ msgstr "挿入"
 #. Scene label
 #. screens: upgrade_screen.tscn
 msgid "Format"
-msgstr "ﾌｫｰﾏｯﾄ"
+msgstr "書式"
 
 #. Scene label
 #. screens: upgrade_screen.tscn
